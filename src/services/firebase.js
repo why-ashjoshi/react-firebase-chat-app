@@ -12,7 +12,7 @@ import {
 
 const firebaseConfig = {
 
-        apiKey: "AIzaSyCiOXbUpRmZ0hqgN0oBzj-mmtokADE3Vf4",
+        apiKey: "",
         authDomain: "chat-room-eef72.firebaseapp.com",
         projectId: "chat-room-eef72",
         storageBucket: "chat-room-eef72.appspot.com",
